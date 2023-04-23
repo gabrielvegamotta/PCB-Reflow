@@ -9,4 +9,8 @@ I decided that first recreate the concept with more afordable component and add 
 
 The board has a bigger heating bed (80mm x75mm) and also implemented a RGB LED socket for easy signaling of the diffent stages of the reflow process.
 
+### Schematics
 
+### Layout
+
+![PCB Reflow V1 Arduino in Altium](Images/PCBReflow_V1_Arduino.png)
