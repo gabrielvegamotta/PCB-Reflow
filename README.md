@@ -21,7 +21,7 @@ The board has a bigger heating bed (80mm x75mm) and also implemented a RGB LED s
 
 ### BOM
 
-[PCB Reflow V1 Arduino BOM](V1-Arduino-PTH/BOM_PCB_Reflow_Arduino_V1.0.jpg)
+[PCB Reflow V1 Arduino BOM](V1-Arduino-PTH/Documentation/BOM_PCB_Reflow_Arduino_V1.0.jpg)
 
 ### PCB Assembled
 
