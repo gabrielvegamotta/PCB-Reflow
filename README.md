@@ -3,7 +3,7 @@
 
 This project is my version of [AfterEarthLTD Solder Plate Reflow](https://github.com/AfterEarthLTD/Solder-Reflow-Plate) (which is an awesome project!). 
 
-## Version 1 - Integrated Heating Bed with Arduino
+## V1.0 - Integrated Heating Bed with Arduino
 
 I decided that I would first recreate the concept of the project (with the heating bed integrated) with more afordable component and add some more funcionality, so I used all PTH components and a Arduino Nano for the MCU. 
 
@@ -27,14 +27,16 @@ The board has a bigger heating bed (80mm x75mm) and also implemented a RGB LED s
 
 More info soon.
 
-### Performance
+### Results & Performance
 
 More info soon.
 
-### Modifications and Upgrades
+### Modifications & Upgrades
 
 More info soon.
 
 ### Final Thoughts
 
 More info soon.
+
+### References
